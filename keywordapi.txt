@@ -1,0 +1,5 @@
+-HTTP method(Main)-
+GET -> ดึงข้อมูล
+POST  -> create
+PUT -> update
+DELETE -> remove or delete
